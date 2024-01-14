@@ -5,11 +5,5 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer from Russia 🇷🇺 Currently in Korea</h3>
 
-<div align='center'>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=volodin32104)](https://git.io/streak-stats)
-
-
-  </div>
 
   
